@@ -1,0 +1,125 @@
+.button{
+    color: white;
+    background-color: #0f766e;
+    width: 100px;
+    height: 40px;
+    border: 1px solid #0f766e;
+    border-radius: 8px;
+}
+.button:hover{
+    background-color:#115e59    ;
+}
+.main-navbar{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    margin-bottom: 50px;
+    height: 75px;
+}
+.para {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.para p{
+    width: 55%;
+    text-align: left;
+    margin-top: 40px;
+}
+.para-head{
+    align-items: center;    
+}
+.text-two{
+    font-weight: lighter;
+    margin-top: 50px;
+}
+.second-body{
+    width: 890px
+}
+.second-body img{
+    width: 95px
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.second-body h5{
+    color: #4b5563;
+}
+.second-body p{
+    color: #6b7280;
+}
+
+.third-body{
+    margin-top: 60px;
+    background-color: #f3f4f6;
+    padding-top: 5px;
+}
+.third-body h3{
+    color: #555a70;
+}
+.third-body-head{
+    margin:50px 0px;;
+}
+.first-box{
+    margin-left: 80px;
+    height: 100px;
+    background-color: #ffffff;
+    border-radius: 9px;
+    margin-bottom: 40px;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+    
+}
+.second-box{
+    margin-left:80px;
+    margin-right: 80px;
+    height: 100px;
+    background-color: #ffffff;
+    border-radius: 9px;
+    margin-bottom: 40px;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+}
+.third-box{
+    margin-right: 80px;
+    height: 100px;
+    background-color: #ffffff;
+    border-radius: 9px;
+    margin-bottom: 40px;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+}
+.fourth-box{
+    margin-left: 80px;
+    border-radius: 9px;
+    height: 500px;
+    background-color: #ffffff;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+    text-align: left;
+
+}
+.fifth-box{
+    margin-right: 90px;
+    margin-left: 80px;
+    border-radius: 9px;
+    height: 500px;
+    background-color: #ffffff;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+    text-align: left;
+}
+.head{
+    margin: 30px 15px;
+    line-height: 27px;
+    color: #6b7280;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

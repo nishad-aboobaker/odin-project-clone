@@ -1,0 +1,137 @@
+.buttn1 {
+    color: white;
+    background-color: #0f766e;
+    width: 100px;
+    height: 40px;
+    border: 1px solid #0f766e;
+    border-radius: 8px;
+}
+
+.buttn1:hover {
+    background-color: #115e59;
+}
+.main-navbar{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    margin-bottom: 50px;
+    height: 75px;
+}
+input[type=text],
+input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: 1px solid #A9A9A9;
+    border-radius: 9px;
+    height: 45px;
+    margin-bottom: 25px;
+}
+
+input[type=text]:focus,
+input[type=password]:focus {
+    outline: none;
+    border: 2px solid #2563eb;
+}
+
+button {
+    background-color: #0f766e;
+    color: white;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.check {
+    display: flex;
+    justify-content: space-between;
+}
+
+.check a,
+.check a:hover {
+    text-decoration: underline;
+    color: #4b5563;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+.signupbtn {
+    background-color: #0f766e;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.container {
+    padding: 16px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.sign-up {
+    width: 450px;
+    border-radius: 8px;
+}
+
+.alink {
+    text-align: center;
+}
+
+.alink a,
+.alink a:hover {
+    text-decoration: underline;
+    color: #374151;
+}
+
+.border {
+    width: 500px;
+    height: 450px;
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+
+}
+
+.ht {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 30px 0 20px;
+}
+
+.ht span {
+    background: #fff;
+    padding: 0 10px;
+}
+
+.btns {
+    display: flex;
+    gap: 15px;
+}
+
+.btn1 {
+    border-radius: 8px;
+    margin-top: 10px;
+    background-color: #f9fafb;
+    border: 1px solid #A9A9A9;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn1 img {
+    width: 15%;
+}
